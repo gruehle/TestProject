@@ -26,5 +26,7 @@ function doSearch() {
             tweetList.append("<div style='clear:both'></div>");
             tweetList.append("</li>");
         });
+    }).error(function() {
+    	tweetList.text("Error loading tweets.");
     });
 }
