@@ -47,12 +47,13 @@ li {
 	left: 50%;
 	margin-left: -250px;
 	min-height: 100%;
+	box-shadow: 0 0 15px #888;
 }
 
 #header {
     left:0px;
     right:0px;
-    padding: 6px;
+    padding: 10px;
     background: #336699;
 }
 
