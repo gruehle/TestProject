@@ -47,6 +47,7 @@ li {
 	left: 50%;
 	margin-left: -250px;
 	min-height: 100%;
+	box-shadow: 0 0 15px #888;
 }
 
 #header {
