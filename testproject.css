@@ -38,6 +38,7 @@ li {
     border-left-color: #FFF;
     border-right-color: #FFF;
     border-top-color: #FFF;
+    padding-bottom: 4px;
 }
 
 #content {
