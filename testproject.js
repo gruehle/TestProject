@@ -8,8 +8,6 @@ $(document).ready(function() {
     searchField.focus();
 });
 
-// Hi
-
 function doSearch() {
     var searchString = encodeURI(document.getElementById("search").value);
     var tweetList = $("#tweetList");
